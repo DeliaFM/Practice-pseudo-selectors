@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  width: 300px;
+  flex-direction: column;
+  border: thin black solid;
+  
+  
+  
+}
+p {
+  padding: 20px;
+  margin: 0px;
+  border: thin black solid;
+}
+
+p:hover {
+  background: #eb634e;
+}
